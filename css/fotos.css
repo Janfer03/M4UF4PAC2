@@ -1,0 +1,27 @@
+
+body{
+    color: #ffff;
+    
+}
+
+#personatjes-prin{
+    margin-left: 30px;
+    margin-top: 20px;
+    
+}
+
+#familia-moina{
+    margin-left: 10px; 
+}
+
+#odda{
+    margin-left: 30px;
+}
+
+#gegants{
+    margin-top: 90px;
+}
+
+main{
+    border: solid 1px rgb(81,81,81);;
+}
